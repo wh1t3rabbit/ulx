@@ -1,4 +1,4 @@
-CATEGORY_NAME = "Teleport"
+local CATEGORY_NAME = "Teleport"
 
 -- Utility function for bring, goto, and send
 local function playerSend( from, to, force )
