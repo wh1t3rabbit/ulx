@@ -1,5 +1,5 @@
 -- This module holds any type of chatting functions
-CATEGORY_NAME = "Chat"
+local CATEGORY_NAME = "Chat"
 
 ------------------------------ Psay ------------------------------
 function ulx.psay( calling_ply, target_ply, message )
